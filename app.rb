@@ -7,7 +7,7 @@ end
  get '/hometown' do
   "My hometown is Gweru"
  end
- get '/' do
+ get '/favorite-song' do
   "Hello, World!"
  end
 end
